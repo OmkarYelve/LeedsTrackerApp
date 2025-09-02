@@ -1,6 +1,3 @@
-Got it ✅ — here’s a **ready-to-copy-paste README.md** for your **LeedsTrackerApp** project, formatted and polished:
-
-````md
 # LeedsTrackerApp
 
 A simple **Link Tracking App** powered by **Firebase Realtime Database**. Save, manage, and access your links from anywhere — all in real time.  
